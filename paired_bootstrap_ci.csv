@@ -1,0 +1,4 @@
+predictor_a,predictor_b,n_paired_shots,median_diff_mm,ci95_low_mm,ci95_high_mm
+Physics-only,Hybrid-GP,158,8.67,6.19,12.13
+End-to-End GP,Hybrid-GP,158,11.22,-3.89,23.39
+Physics-only,End-to-End GP,158,-0.83,-15.32,12.79

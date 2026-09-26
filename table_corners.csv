@@ -1,0 +1,5 @@
+corner,x_mm,y_mm,z_mm
+top_left,858.47,1411.57,-57.95
+top_right,857.34,-1411.83,5.53
+bottom_right,-856.92,-1411.83,5.53
+bottom_left,-857.2,1411.86,5.53

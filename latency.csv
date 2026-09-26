@@ -1,0 +1,499 @@
+shot_id,cv_fold,predictor,latency_ms
+shot_0165,0,Physics-only,80.035
+shot_0165,0,Hybrid-GP,81.694
+shot_0165,0,End-to-End GP,15.453
+shot_0146,0,Physics-only,73.444
+shot_0146,0,Hybrid-GP,74.631
+shot_0146,0,End-to-End GP,14.699
+shot_0074,0,Physics-only,69.779
+shot_0074,0,Hybrid-GP,70.682
+shot_0074,0,End-to-End GP,14.559
+shot_0053,0,Physics-only,74.233
+shot_0053,0,Hybrid-GP,74.346
+shot_0053,0,End-to-End GP,15.805
+shot_0093,0,Physics-only,71.659
+shot_0093,0,Hybrid-GP,74.18
+shot_0093,0,End-to-End GP,15.5
+shot_0162,0,Physics-only,73.754
+shot_0162,0,Hybrid-GP,74.475
+shot_0162,0,End-to-End GP,15.682
+shot_0108,0,Physics-only,69.568
+shot_0108,0,Hybrid-GP,71.47
+shot_0108,0,End-to-End GP,15.231
+shot_0087,0,Physics-only,79.798
+shot_0087,0,Hybrid-GP,84.857
+shot_0087,0,End-to-End GP,15.376
+shot_0090,0,Physics-only,73.79
+shot_0090,0,Hybrid-GP,74.869
+shot_0090,0,End-to-End GP,15.761
+shot_0036,0,Physics-only,72.05
+shot_0036,0,Hybrid-GP,73.375
+shot_0036,0,End-to-End GP,15.449
+shot_0071,0,Physics-only,68.651
+shot_0071,0,Hybrid-GP,71.229
+shot_0071,0,End-to-End GP,15.389
+shot_0010,0,Physics-only,71.933
+shot_0010,0,Hybrid-GP,74.003
+shot_0010,0,End-to-End GP,15.614
+shot_0064,0,Physics-only,77.153
+shot_0064,0,Hybrid-GP,77.812
+shot_0064,0,End-to-End GP,15.383
+shot_0151,0,Physics-only,73.862
+shot_0151,0,Hybrid-GP,74.362
+shot_0151,0,End-to-End GP,14.499
+shot_0084,0,Physics-only,70.417
+shot_0084,0,Hybrid-GP,72.02
+shot_0084,0,End-to-End GP,14.121
+shot_0107,0,Physics-only,67.85
+shot_0107,0,Hybrid-GP,69.508
+shot_0107,0,End-to-End GP,15.223
+shot_0083,0,Physics-only,71.897
+shot_0083,0,Hybrid-GP,73.144
+shot_0083,0,End-to-End GP,15.685
+shot_0088,0,Physics-only,71.413
+shot_0088,0,Hybrid-GP,74.236
+shot_0088,0,End-to-End GP,15.658
+shot_0131,0,Physics-only,79.611
+shot_0131,0,Hybrid-GP,80.555
+shot_0131,0,End-to-End GP,15.623
+shot_0142,0,Physics-only,71.953
+shot_0142,0,Hybrid-GP,73.086
+shot_0142,0,End-to-End GP,18.166
+shot_0116,0,Physics-only,71.307
+shot_0116,0,Hybrid-GP,72.802
+shot_0116,0,End-to-End GP,15.815
+shot_0097,0,Physics-only,83.359
+shot_0097,0,Hybrid-GP,84.742
+shot_0097,0,End-to-End GP,15.813
+shot_0157,0,Physics-only,83.393
+shot_0157,0,Hybrid-GP,83.941
+shot_0157,0,End-to-End GP,15.686
+shot_0139,0,Physics-only,85.026
+shot_0139,0,Hybrid-GP,86.222
+shot_0139,0,End-to-End GP,14.299
+shot_0112,0,Physics-only,72.32
+shot_0112,0,Hybrid-GP,74.214
+shot_0112,0,End-to-End GP,15.081
+shot_0075,0,Physics-only,80.335
+shot_0075,0,Hybrid-GP,81.491
+shot_0075,0,End-to-End GP,15.45
+shot_0140,0,Physics-only,71.46
+shot_0140,0,Hybrid-GP,72.307
+shot_0140,0,End-to-End GP,15.592
+shot_0111,0,Physics-only,71.839
+shot_0111,0,Hybrid-GP,73.755
+shot_0111,0,End-to-End GP,16.086
+shot_0005,0,Physics-only,59.434
+shot_0005,0,Hybrid-GP,60.754
+shot_0005,0,End-to-End GP,12.826
+shot_0089,0,Physics-only,67.781
+shot_0089,0,Hybrid-GP,70.758
+shot_0089,0,End-to-End GP,13.406
+shot_0128,0,Physics-only,86.504
+shot_0128,0,Hybrid-GP,97.293
+shot_0128,0,End-to-End GP,15.136
+shot_0042,0,Physics-only,82.47
+shot_0042,0,Hybrid-GP,83.012
+shot_0042,0,End-to-End GP,18.302
+shot_0016,0,Physics-only,82.6
+shot_0016,0,Hybrid-GP,85.002
+shot_0016,0,End-to-End GP,15.471
+shot_0153,0,Physics-only,73.919
+shot_0153,0,Hybrid-GP,74.577
+shot_0153,0,End-to-End GP,14.754
+shot_0118,1,Physics-only,68.085
+shot_0118,1,Hybrid-GP,69.595
+shot_0118,1,End-to-End GP,15.592
+shot_0123,1,Physics-only,74.739
+shot_0123,1,Hybrid-GP,78.578
+shot_0123,1,End-to-End GP,16.86
+shot_0013,1,Physics-only,80.221
+shot_0013,1,Hybrid-GP,82.181
+shot_0013,1,End-to-End GP,15.937
+shot_0129,1,Physics-only,73.057
+shot_0129,1,Hybrid-GP,72.677
+shot_0129,1,End-to-End GP,15.555
+shot_0134,1,Physics-only,72.567
+shot_0134,1,Hybrid-GP,74.656
+shot_0134,1,End-to-End GP,15.284
+shot_0041,1,Physics-only,78.65
+shot_0041,1,Hybrid-GP,77.729
+shot_0041,1,End-to-End GP,15.559
+shot_0094,1,Physics-only,69.216
+shot_0094,1,Hybrid-GP,71.014
+shot_0094,1,End-to-End GP,14.58
+shot_0119,1,Physics-only,82.864
+shot_0119,1,Hybrid-GP,82.455
+shot_0119,1,End-to-End GP,15.99
+shot_0164,1,Physics-only,62.972
+shot_0164,1,Hybrid-GP,61.584
+shot_0164,1,End-to-End GP,14.32
+shot_0080,1,Physics-only,80.395
+shot_0080,1,Hybrid-GP,82.746
+shot_0080,1,End-to-End GP,15.122
+shot_0001,1,Physics-only,85.538
+shot_0001,1,Hybrid-GP,86.248
+shot_0001,1,End-to-End GP,15.504
+shot_0137,1,Physics-only,74.362
+shot_0137,1,Hybrid-GP,75.363
+shot_0137,1,End-to-End GP,15.487
+shot_0002,1,Physics-only,83.324
+shot_0002,1,Hybrid-GP,82.609
+shot_0002,1,End-to-End GP,14.73
+shot_0130,1,Physics-only,69.218
+shot_0130,1,Hybrid-GP,70.964
+shot_0130,1,End-to-End GP,16.277
+shot_0141,1,Physics-only,71.989
+shot_0141,1,Hybrid-GP,74.962
+shot_0141,1,End-to-End GP,14.235
+shot_0135,1,Physics-only,91.238
+shot_0135,1,Hybrid-GP,91.012
+shot_0135,1,End-to-End GP,15.363
+shot_0054,1,Physics-only,77.725
+shot_0054,1,Hybrid-GP,78.6
+shot_0054,1,End-to-End GP,15.607
+shot_0011,1,Physics-only,70.238
+shot_0011,1,Hybrid-GP,70.492
+shot_0011,1,End-to-End GP,14.241
+shot_0072,1,Physics-only,69.029
+shot_0072,1,Hybrid-GP,70.025
+shot_0072,1,End-to-End GP,14.891
+shot_0039,1,Physics-only,71.097
+shot_0039,1,Hybrid-GP,73.023
+shot_0039,1,End-to-End GP,13.979
+shot_0048,1,Physics-only,73.469
+shot_0048,1,Hybrid-GP,74.462
+shot_0048,1,End-to-End GP,15.025
+shot_0037,1,Physics-only,81.542
+shot_0037,1,Hybrid-GP,84.076
+shot_0037,1,End-to-End GP,15.826
+shot_0052,1,Physics-only,84.863
+shot_0052,1,Hybrid-GP,85.801
+shot_0052,1,End-to-End GP,15.817
+shot_0133,1,Physics-only,89.517
+shot_0133,1,Hybrid-GP,89.967
+shot_0133,1,End-to-End GP,15.8
+shot_0099,1,Physics-only,80.789
+shot_0099,1,Hybrid-GP,81.908
+shot_0099,1,End-to-End GP,15.787
+shot_0159,1,Physics-only,83.826
+shot_0159,1,Hybrid-GP,82.399
+shot_0159,1,End-to-End GP,15.741
+shot_0148,1,Physics-only,79.686
+shot_0148,1,Hybrid-GP,81.671
+shot_0148,1,End-to-End GP,15.588
+shot_0023,1,Physics-only,80.595
+shot_0023,1,Hybrid-GP,81.842
+shot_0023,1,End-to-End GP,15.435
+shot_0044,1,Physics-only,80.66
+shot_0044,1,Hybrid-GP,85.426
+shot_0044,1,End-to-End GP,15.568
+shot_0161,1,Physics-only,72.539
+shot_0161,1,Hybrid-GP,73.343
+shot_0161,1,End-to-End GP,15.759
+shot_0068,1,Physics-only,80.493
+shot_0068,1,Hybrid-GP,81.719
+shot_0068,1,End-to-End GP,15.567
+shot_0038,1,Physics-only,79.889
+shot_0038,1,Hybrid-GP,80.462
+shot_0038,1,End-to-End GP,15.626
+shot_0050,1,Physics-only,73.583
+shot_0050,1,Hybrid-GP,74.461
+shot_0050,1,End-to-End GP,15.918
+shot_0091,2,Physics-only,71.749
+shot_0091,2,Hybrid-GP,73.943
+shot_0091,2,End-to-End GP,14.159
+shot_0020,2,Physics-only,67.646
+shot_0020,2,Hybrid-GP,77.933
+shot_0020,2,End-to-End GP,14.536
+shot_0009,2,Physics-only,74.725
+shot_0009,2,Hybrid-GP,72.312
+shot_0009,2,End-to-End GP,13.871
+shot_0034,2,Physics-only,81.474
+shot_0034,2,Hybrid-GP,83.252
+shot_0034,2,End-to-End GP,13.803
+shot_0027,2,Physics-only,82.52
+shot_0027,2,Hybrid-GP,83.922
+shot_0027,2,End-to-End GP,14.162
+shot_0117,2,Physics-only,74.392
+shot_0117,2,Hybrid-GP,75.79
+shot_0117,2,End-to-End GP,16.448
+shot_0092,2,Physics-only,71.936
+shot_0092,2,Hybrid-GP,72.161
+shot_0092,2,End-to-End GP,15.525
+shot_0025,2,Physics-only,80.97
+shot_0025,2,Hybrid-GP,80.672
+shot_0025,2,End-to-End GP,15.339
+shot_0043,2,Physics-only,83.761
+shot_0043,2,Hybrid-GP,85.539
+shot_0043,2,End-to-End GP,13.962
+shot_0098,2,Physics-only,67.694
+shot_0098,2,Hybrid-GP,70.196
+shot_0098,2,End-to-End GP,14.243
+shot_0008,2,Physics-only,85.058
+shot_0008,2,Hybrid-GP,84.039
+shot_0008,2,End-to-End GP,15.758
+shot_0040,2,Physics-only,84.315
+shot_0040,2,Hybrid-GP,85.201
+shot_0040,2,End-to-End GP,16.4
+shot_0147,2,Physics-only,73.823
+shot_0147,2,Hybrid-GP,72.822
+shot_0147,2,End-to-End GP,15.449
+shot_0122,2,Physics-only,64.04
+shot_0122,2,Hybrid-GP,66.033
+shot_0122,2,End-to-End GP,15.872
+shot_0022,2,Physics-only,73.271
+shot_0022,2,Hybrid-GP,74.524
+shot_0022,2,End-to-End GP,15.313
+shot_0019,2,Physics-only,84.819
+shot_0019,2,Hybrid-GP,86.354
+shot_0019,2,End-to-End GP,13.534
+shot_0143,2,Physics-only,73.031
+shot_0143,2,Hybrid-GP,74.172
+shot_0143,2,End-to-End GP,21.235
+shot_0110,2,Physics-only,71.093
+shot_0110,2,Hybrid-GP,60.988
+shot_0110,2,End-to-End GP,14.131
+shot_0144,2,Physics-only,73.731
+shot_0144,2,Hybrid-GP,71.372
+shot_0144,2,End-to-End GP,13.86
+shot_0109,2,Physics-only,66.316
+shot_0109,2,Hybrid-GP,67.016
+shot_0109,2,End-to-End GP,15.659
+shot_0102,2,Physics-only,80.528
+shot_0102,2,Hybrid-GP,79.75
+shot_0102,2,End-to-End GP,14.852
+shot_0004,2,Physics-only,72.241
+shot_0004,2,Hybrid-GP,74.288
+shot_0004,2,End-to-End GP,15.395
+shot_0105,2,Physics-only,100.267
+shot_0105,2,Hybrid-GP,100.41
+shot_0105,2,End-to-End GP,15.631
+shot_0079,2,Physics-only,74.205
+shot_0079,2,Hybrid-GP,72.621
+shot_0079,2,End-to-End GP,15.491
+shot_0055,2,Physics-only,82.226
+shot_0055,2,Hybrid-GP,85.328
+shot_0055,2,End-to-End GP,14.473
+shot_0156,2,Physics-only,72.984
+shot_0156,2,Hybrid-GP,74.781
+shot_0156,2,End-to-End GP,15.522
+shot_0017,2,Physics-only,72.426
+shot_0017,2,Hybrid-GP,74.425
+shot_0017,2,End-to-End GP,15.694
+shot_0085,2,Physics-only,69.131
+shot_0085,2,Hybrid-GP,65.659
+shot_0085,2,End-to-End GP,13.691
+shot_0100,2,Physics-only,80.513
+shot_0100,2,Hybrid-GP,85.42
+shot_0100,2,End-to-End GP,13.375
+shot_0003,2,Physics-only,68.884
+shot_0003,2,Hybrid-GP,69.505
+shot_0003,2,End-to-End GP,15.6
+shot_0103,2,Physics-only,67.707
+shot_0103,2,Hybrid-GP,72.592
+shot_0103,2,End-to-End GP,13.927
+shot_0132,2,Physics-only,70.667
+shot_0132,2,Hybrid-GP,72.915
+shot_0132,2,End-to-End GP,14.466
+shot_0015,2,Physics-only,74.843
+shot_0015,2,Hybrid-GP,74.922
+shot_0015,2,End-to-End GP,13.824
+shot_0149,3,Physics-only,94.846
+shot_0149,3,Hybrid-GP,97.922
+shot_0149,3,End-to-End GP,18.601
+shot_0030,3,Physics-only,79.762
+shot_0030,3,Hybrid-GP,83.465
+shot_0030,3,End-to-End GP,17.642
+shot_0066,3,Physics-only,81.925
+shot_0066,3,Hybrid-GP,80.396
+shot_0066,3,End-to-End GP,16.978
+shot_0035,3,Physics-only,100.289
+shot_0035,3,Hybrid-GP,100.339
+shot_0035,3,End-to-End GP,17.051
+shot_0106,3,Physics-only,90.595
+shot_0106,3,Hybrid-GP,91.077
+shot_0106,3,End-to-End GP,17.285
+shot_0081,3,Physics-only,83.563
+shot_0081,3,Hybrid-GP,87.165
+shot_0081,3,End-to-End GP,18.26
+shot_0154,3,Physics-only,90.231
+shot_0154,3,Hybrid-GP,90.719
+shot_0154,3,End-to-End GP,17.356
+shot_0028,3,Physics-only,92.287
+shot_0028,3,Hybrid-GP,89.739
+shot_0028,3,End-to-End GP,17.211
+shot_0082,3,Physics-only,83.339
+shot_0082,3,Hybrid-GP,83.697
+shot_0082,3,End-to-End GP,17.064
+shot_0018,3,Physics-only,95.353
+shot_0018,3,Hybrid-GP,96.315
+shot_0018,3,End-to-End GP,16.867
+shot_0006,3,Physics-only,87.666
+shot_0006,3,Hybrid-GP,88.45
+shot_0006,3,End-to-End GP,18.524
+shot_0067,3,Physics-only,115.194
+shot_0067,3,Hybrid-GP,104.294
+shot_0067,3,End-to-End GP,19.264
+shot_0065,3,Physics-only,87.896
+shot_0065,3,Hybrid-GP,88.28
+shot_0065,3,End-to-End GP,17.451
+shot_0114,3,Physics-only,86.275
+shot_0114,3,Hybrid-GP,86.683
+shot_0114,3,End-to-End GP,17.551
+shot_0024,3,Physics-only,91.156
+shot_0024,3,Hybrid-GP,90.961
+shot_0024,3,End-to-End GP,17.029
+shot_0158,3,Physics-only,91.313
+shot_0158,3,Hybrid-GP,93.387
+shot_0158,3,End-to-End GP,16.987
+shot_0163,3,Physics-only,82.59
+shot_0163,3,Hybrid-GP,83.889
+shot_0163,3,End-to-End GP,17.366
+shot_0057,3,Physics-only,96.893
+shot_0057,3,Hybrid-GP,97.024
+shot_0057,3,End-to-End GP,16.747
+shot_0021,3,Physics-only,84.807
+shot_0021,3,Hybrid-GP,88.914
+shot_0021,3,End-to-End GP,18.696
+shot_0126,3,Physics-only,84.072
+shot_0126,3,Hybrid-GP,86.334
+shot_0126,3,End-to-End GP,17.503
+shot_0136,3,Physics-only,82.208
+shot_0136,3,Hybrid-GP,85.071
+shot_0136,3,End-to-End GP,16.813
+shot_0124,3,Physics-only,93.047
+shot_0124,3,Hybrid-GP,90.989
+shot_0124,3,End-to-End GP,16.891
+shot_0047,3,Physics-only,84.352
+shot_0047,3,Hybrid-GP,89.419
+shot_0047,3,End-to-End GP,16.838
+shot_0000,3,Physics-only,83.256
+shot_0000,3,Hybrid-GP,82.784
+shot_0000,3,End-to-End GP,16.326
+shot_0060,3,Physics-only,88.494
+shot_0060,3,Hybrid-GP,90.331
+shot_0060,3,End-to-End GP,16.482
+shot_0070,3,Physics-only,79.118
+shot_0070,3,Hybrid-GP,80.259
+shot_0070,3,End-to-End GP,16.575
+shot_0062,3,Physics-only,76.316
+shot_0062,3,Hybrid-GP,77.705
+shot_0062,3,End-to-End GP,16.471
+shot_0150,3,Physics-only,131.579
+shot_0150,3,Hybrid-GP,126.906
+shot_0150,3,End-to-End GP,16.367
+shot_0045,3,Physics-only,80.386
+shot_0045,3,Hybrid-GP,79.346
+shot_0045,3,End-to-End GP,15.712
+shot_0086,3,Physics-only,65.105
+shot_0086,3,Hybrid-GP,64.769
+shot_0086,3,End-to-End GP,15.362
+shot_0063,3,Physics-only,78.195
+shot_0063,3,Hybrid-GP,77.717
+shot_0063,3,End-to-End GP,15.256
+shot_0125,3,Physics-only,76.201
+shot_0125,3,Hybrid-GP,78.002
+shot_0125,3,End-to-End GP,15.807
+shot_0026,3,Physics-only,78.256
+shot_0026,3,Hybrid-GP,76.414
+shot_0026,3,End-to-End GP,14.805
+shot_0051,4,Physics-only,78.467
+shot_0051,4,Hybrid-GP,78.993
+shot_0051,4,End-to-End GP,17.382
+shot_0101,4,Physics-only,73.747
+shot_0101,4,Hybrid-GP,75.928
+shot_0101,4,End-to-End GP,16.22
+shot_0049,4,Physics-only,77.9
+shot_0049,4,Hybrid-GP,80.034
+shot_0049,4,End-to-End GP,16.664
+shot_0145,4,Physics-only,75.605
+shot_0145,4,Hybrid-GP,78.631
+shot_0145,4,End-to-End GP,15.757
+shot_0096,4,Physics-only,73.588
+shot_0096,4,Hybrid-GP,77.26
+shot_0096,4,End-to-End GP,15.799
+shot_0152,4,Physics-only,79.097
+shot_0152,4,Hybrid-GP,79.147
+shot_0152,4,End-to-End GP,15.611
+shot_0061,4,Physics-only,72.081
+shot_0061,4,Hybrid-GP,73.435
+shot_0061,4,End-to-End GP,16.695
+shot_0012,4,Physics-only,78.879
+shot_0012,4,Hybrid-GP,79.646
+shot_0012,4,End-to-End GP,16.178
+shot_0032,4,Physics-only,72.634
+shot_0032,4,Hybrid-GP,71.916
+shot_0032,4,End-to-End GP,15.529
+shot_0056,4,Physics-only,85.714
+shot_0056,4,Hybrid-GP,86.326
+shot_0056,4,End-to-End GP,15.816
+shot_0046,4,Physics-only,85.438
+shot_0046,4,Hybrid-GP,87.194
+shot_0046,4,End-to-End GP,15.797
+shot_0058,4,Physics-only,71.368
+shot_0058,4,Hybrid-GP,74.718
+shot_0058,4,End-to-End GP,16.497
+shot_0014,4,Physics-only,82.138
+shot_0014,4,Hybrid-GP,78.893
+shot_0014,4,End-to-End GP,16.462
+shot_0073,4,Physics-only,86.012
+shot_0073,4,Hybrid-GP,81.955
+shot_0073,4,End-to-End GP,16.745
+shot_0155,4,Physics-only,74.203
+shot_0155,4,Hybrid-GP,81.868
+shot_0155,4,End-to-End GP,16.783
+shot_0160,4,Physics-only,86.968
+shot_0160,4,Hybrid-GP,95.225
+shot_0160,4,End-to-End GP,18.059
+shot_0115,4,Physics-only,82.538
+shot_0115,4,Hybrid-GP,83.951
+shot_0115,4,End-to-End GP,18.394
+shot_0031,4,Physics-only,90.173
+shot_0031,4,Hybrid-GP,91.672
+shot_0031,4,End-to-End GP,17.01
+shot_0104,4,Physics-only,76.572
+shot_0104,4,Hybrid-GP,77.605
+shot_0104,4,End-to-End GP,17.534
+shot_0077,4,Physics-only,104.234
+shot_0077,4,Hybrid-GP,105.325
+shot_0077,4,End-to-End GP,17.561
+shot_0076,4,Physics-only,84.724
+shot_0076,4,Hybrid-GP,86.092
+shot_0076,4,End-to-End GP,17.386
+shot_0007,4,Physics-only,72.31
+shot_0007,4,Hybrid-GP,73.26
+shot_0007,4,End-to-End GP,18.113
+shot_0166,4,Physics-only,72.69
+shot_0166,4,Hybrid-GP,75.44
+shot_0166,4,End-to-End GP,17.468
+shot_0069,4,Physics-only,80.856
+shot_0069,4,Hybrid-GP,80.624
+shot_0069,4,End-to-End GP,16.582
+shot_0113,4,Physics-only,68.65
+shot_0113,4,Hybrid-GP,70.901
+shot_0113,4,End-to-End GP,16.375
+shot_0127,4,Physics-only,75.686
+shot_0127,4,Hybrid-GP,79.105
+shot_0127,4,End-to-End GP,17.715
+shot_0121,4,Physics-only,72.342
+shot_0121,4,Hybrid-GP,73.888
+shot_0121,4,End-to-End GP,18.913
+shot_0078,4,Physics-only,76.189
+shot_0078,4,Hybrid-GP,76.682
+shot_0078,4,End-to-End GP,19.066
+shot_0120,4,Physics-only,76.937
+shot_0120,4,Hybrid-GP,79.67
+shot_0120,4,End-to-End GP,18.597
+shot_0059,4,Physics-only,84.867
+shot_0059,4,Hybrid-GP,86.895
+shot_0059,4,End-to-End GP,18.122
+shot_0029,4,Physics-only,73.133
+shot_0029,4,Hybrid-GP,74.327
+shot_0029,4,End-to-End GP,17.31
+shot_0033,4,Physics-only,85.058
+shot_0033,4,Hybrid-GP,88.267
+shot_0033,4,End-to-End GP,17.577
+shot_0095,4,Physics-only,74.593
+shot_0095,4,Hybrid-GP,75.563
+shot_0095,4,End-to-End GP,17.376

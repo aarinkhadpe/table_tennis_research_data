@@ -1,0 +1,499 @@
+shot_id,cv_fold,predictor,status,crossing_t_s,error_mm
+shot_0165,0,Physics-only,ok,1821.8313,124.57
+shot_0165,0,Hybrid-GP,ok,1821.8313,124.57
+shot_0165,0,End-to-End GP,ok,1821.8313,127.99
+shot_0146,0,Physics-only,ok,1743.2162,188.59
+shot_0146,0,Hybrid-GP,ok,1743.2162,157.52
+shot_0146,0,End-to-End GP,ok,1743.2162,172.32
+shot_0074,0,Physics-only,ok,1520.6022,203.4
+shot_0074,0,Hybrid-GP,ok,1520.6022,176.11
+shot_0074,0,End-to-End GP,ok,1520.6022,63.0
+shot_0053,0,Physics-only,ok,1485.8547,70.58
+shot_0053,0,Hybrid-GP,ok,1485.8547,59.6
+shot_0053,0,End-to-End GP,ok,1485.8547,249.22
+shot_0093,0,Physics-only,ok,1602.874,65.5
+shot_0093,0,Hybrid-GP,ok,1602.874,61.24
+shot_0093,0,End-to-End GP,ok,1602.874,102.93
+shot_0162,0,Physics-only,ok,1798.4409,182.31
+shot_0162,0,Hybrid-GP,ok,1798.4409,172.52
+shot_0162,0,End-to-End GP,ok,1798.4409,239.09
+shot_0108,0,Physics-only,ok,1624.2371,165.68
+shot_0108,0,Hybrid-GP,ok,1624.2371,151.67
+shot_0108,0,End-to-End GP,ok,1624.2371,206.81
+shot_0087,0,Physics-only,ok,1596.4089,102.35
+shot_0087,0,Hybrid-GP,ok,1596.4089,67.15
+shot_0087,0,End-to-End GP,ok,1596.4089,45.77
+shot_0090,0,Physics-only,ok,1598.4179,90.52
+shot_0090,0,Hybrid-GP,ok,1598.4179,115.49
+shot_0090,0,End-to-End GP,ok,1598.4179,69.48
+shot_0036,0,Physics-only,ok,1422.1028,148.76
+shot_0036,0,Hybrid-GP,ok,1422.1028,144.39
+shot_0036,0,End-to-End GP,ok,1422.1028,281.89
+shot_0071,0,Physics-only,ok,1517.8947,70.44
+shot_0071,0,Hybrid-GP,ok,1517.8947,51.53
+shot_0071,0,End-to-End GP,ok,1517.8947,28.78
+shot_0010,0,Physics-only,ok,1390.348,149.45
+shot_0010,0,Hybrid-GP,ok,1390.348,146.36
+shot_0010,0,End-to-End GP,ok,1390.348,119.43
+shot_0064,0,Physics-only,ok,1505.0069,148.21
+shot_0064,0,Hybrid-GP,ok,1505.0069,146.37
+shot_0064,0,End-to-End GP,ok,1505.0069,232.73
+shot_0151,0,Physics-only,ok,1765.749,66.91
+shot_0151,0,Hybrid-GP,ok,1765.749,57.64
+shot_0151,0,End-to-End GP,ok,1765.749,27.03
+shot_0084,0,Physics-only,ok,1540.7104,128.47
+shot_0084,0,Hybrid-GP,ok,1540.7104,65.26
+shot_0084,0,End-to-End GP,ok,1540.7104,187.32
+shot_0107,0,Physics-only,ok,1623.5336,104.86
+shot_0107,0,Hybrid-GP,ok,1623.5336,90.49
+shot_0107,0,End-to-End GP,ok,1623.5336,99.25
+shot_0083,0,Physics-only,ok,1539.9864,18.41
+shot_0083,0,Hybrid-GP,ok,1539.9864,44.29
+shot_0083,0,End-to-End GP,ok,1539.9864,232.89
+shot_0088,0,Physics-only,ok,1597.0639,67.13
+shot_0088,0,Hybrid-GP,ok,1597.0639,60.31
+shot_0088,0,End-to-End GP,ok,1597.0639,102.24
+shot_0131,0,Physics-only,no_z_e_crossing_after_bounce,,
+shot_0131,0,Hybrid-GP,no_z_e_crossing_after_bounce,,
+shot_0131,0,End-to-End GP,no_z_e_crossing_after_bounce,,
+shot_0142,0,Physics-only,ok,1738.6333,46.94
+shot_0142,0,Hybrid-GP,ok,1738.6333,31.15
+shot_0142,0,End-to-End GP,ok,1738.6333,81.03
+shot_0116,0,Physics-only,ok,1653.505,116.42
+shot_0116,0,Hybrid-GP,ok,1653.505,105.09
+shot_0116,0,End-to-End GP,ok,1653.505,55.93
+shot_0097,0,Physics-only,ok,1606.5529,64.96
+shot_0097,0,Hybrid-GP,ok,1606.5529,69.25
+shot_0097,0,End-to-End GP,ok,1606.5529,52.84
+shot_0157,0,Physics-only,ok,1785.9624,122.47
+shot_0157,0,Hybrid-GP,ok,1785.9624,122.47
+shot_0157,0,End-to-End GP,ok,1785.9624,34.77
+shot_0139,0,Physics-only,ok,1736.8745,170.42
+shot_0139,0,Hybrid-GP,ok,1736.8745,147.82
+shot_0139,0,End-to-End GP,ok,1736.8745,151.91
+shot_0112,0,Physics-only,ok,1638.5626,15.49
+shot_0112,0,Hybrid-GP,ok,1638.5626,45.43
+shot_0112,0,End-to-End GP,ok,1638.5626,145.45
+shot_0075,0,Physics-only,ok,1522.6562,45.41
+shot_0075,0,Hybrid-GP,ok,1522.6562,22.65
+shot_0075,0,End-to-End GP,ok,1522.6562,164.68
+shot_0140,0,Physics-only,ok,1737.4342,74.38
+shot_0140,0,Hybrid-GP,ok,1737.4342,58.34
+shot_0140,0,End-to-End GP,ok,1737.4342,127.65
+shot_0111,0,Physics-only,ok,1626.4081,39.24
+shot_0111,0,Hybrid-GP,ok,1626.4081,52.31
+shot_0111,0,End-to-End GP,ok,1626.4081,59.26
+shot_0005,0,Physics-only,ok,1383.0103,138.67
+shot_0005,0,Hybrid-GP,ok,1383.0103,77.05
+shot_0005,0,End-to-End GP,ok,1383.0103,91.6
+shot_0089,0,Physics-only,no_z_e_crossing_after_bounce,,
+shot_0089,0,Hybrid-GP,no_z_e_crossing_after_bounce,,
+shot_0089,0,End-to-End GP,no_z_e_crossing_after_bounce,,
+shot_0128,0,Physics-only,ok,1672.3617,207.6
+shot_0128,0,Hybrid-GP,ok,1672.3617,207.6
+shot_0128,0,End-to-End GP,ok,1672.3617,165.13
+shot_0042,0,Physics-only,ok,1430.2079,145.02
+shot_0042,0,Hybrid-GP,ok,1430.2079,143.55
+shot_0042,0,End-to-End GP,ok,1430.2079,76.25
+shot_0016,0,Physics-only,ok,1397.6481,60.29
+shot_0016,0,Hybrid-GP,ok,1397.6481,69.64
+shot_0016,0,End-to-End GP,ok,1397.6481,20.5
+shot_0153,0,Physics-only,ok,1776.4355,93.0
+shot_0153,0,Hybrid-GP,ok,1776.4355,91.91
+shot_0153,0,End-to-End GP,ok,1776.4355,64.84
+shot_0118,1,Physics-only,ok,1654.9724,70.31
+shot_0118,1,Hybrid-GP,ok,1654.9724,34.83
+shot_0118,1,End-to-End GP,ok,1654.9724,30.03
+shot_0123,1,Physics-only,ok,1663.2904,84.16
+shot_0123,1,Hybrid-GP,ok,1663.2904,85.51
+shot_0123,1,End-to-End GP,ok,1663.2904,91.33
+shot_0013,1,Physics-only,ok,1395.5829,104.22
+shot_0013,1,Hybrid-GP,ok,1395.5829,99.75
+shot_0013,1,End-to-End GP,ok,1395.5829,33.63
+shot_0129,1,Physics-only,no_bounce,,
+shot_0129,1,Hybrid-GP,no_bounce,,
+shot_0129,1,End-to-End GP,no_bounce,,
+shot_0134,1,Physics-only,ok,1690.4801,72.67
+shot_0134,1,Hybrid-GP,ok,1690.4801,53.25
+shot_0134,1,End-to-End GP,ok,1690.4801,40.52
+shot_0041,1,Physics-only,ok,1429.3624,194.95
+shot_0041,1,Hybrid-GP,ok,1429.3624,194.95
+shot_0041,1,End-to-End GP,ok,1429.3624,82.84
+shot_0094,1,Physics-only,ok,1604.441,107.54
+shot_0094,1,Hybrid-GP,ok,1604.441,99.82
+shot_0094,1,End-to-End GP,ok,1604.441,123.4
+shot_0119,1,Physics-only,no_z_e_crossing_after_bounce,,
+shot_0119,1,Hybrid-GP,no_z_e_crossing_after_bounce,,
+shot_0119,1,End-to-End GP,no_z_e_crossing_after_bounce,,
+shot_0164,1,Physics-only,ok,1810.0218,151.23
+shot_0164,1,Hybrid-GP,ok,1810.0218,126.59
+shot_0164,1,End-to-End GP,ok,1810.0218,119.25
+shot_0080,1,Physics-only,ok,1537.9809,123.18
+shot_0080,1,Hybrid-GP,ok,1537.9809,118.47
+shot_0080,1,End-to-End GP,ok,1537.9809,63.11
+shot_0001,1,Physics-only,ok,1379.1592,119.97
+shot_0001,1,Hybrid-GP,ok,1379.1592,103.84
+shot_0001,1,End-to-End GP,ok,1379.1592,179.4
+shot_0137,1,Physics-only,ok,1729.2426,49.94
+shot_0137,1,Hybrid-GP,ok,1729.2426,43.97
+shot_0137,1,End-to-End GP,ok,1729.2426,64.73
+shot_0002,1,Physics-only,ok,1380.0648,155.47
+shot_0002,1,Hybrid-GP,ok,1380.0648,164.97
+shot_0002,1,End-to-End GP,ok,1380.0648,48.16
+shot_0130,1,Physics-only,ok,1678.5941,199.6
+shot_0130,1,Hybrid-GP,ok,1678.5941,197.65
+shot_0130,1,End-to-End GP,ok,1678.5941,76.46
+shot_0141,1,Physics-only,ok,1738.1228,138.13
+shot_0141,1,Hybrid-GP,ok,1738.1228,145.3
+shot_0141,1,End-to-End GP,ok,1738.1228,83.54
+shot_0135,1,Physics-only,ok,1691.3321,177.7
+shot_0135,1,Hybrid-GP,ok,1691.3321,177.7
+shot_0135,1,End-to-End GP,ok,1691.3321,121.03
+shot_0054,1,Physics-only,ok,1486.5927,113.32
+shot_0054,1,Hybrid-GP,ok,1486.5927,82.8
+shot_0054,1,End-to-End GP,ok,1486.5927,96.57
+shot_0011,1,Physics-only,no_z_e_crossing_after_bounce,,
+shot_0011,1,Hybrid-GP,no_z_e_crossing_after_bounce,,
+shot_0011,1,End-to-End GP,no_z_e_crossing_after_bounce,,
+shot_0072,1,Physics-only,ok,1519.1462,71.46
+shot_0072,1,Hybrid-GP,ok,1519.1462,90.2
+shot_0072,1,End-to-End GP,ok,1519.1462,136.81
+shot_0039,1,Physics-only,ok,1424.0872,130.39
+shot_0039,1,Hybrid-GP,ok,1424.0872,180.93
+shot_0039,1,End-to-End GP,ok,1424.0872,156.99
+shot_0048,1,Physics-only,ok,1482.5973,86.04
+shot_0048,1,Hybrid-GP,ok,1482.5973,52.58
+shot_0048,1,End-to-End GP,ok,1482.5973,34.82
+shot_0037,1,Physics-only,no_z_e_crossing_after_bounce,,
+shot_0037,1,Hybrid-GP,no_z_e_crossing_after_bounce,,
+shot_0037,1,End-to-End GP,no_z_e_crossing_after_bounce,,
+shot_0052,1,Physics-only,ok,1485.3002,135.36
+shot_0052,1,Hybrid-GP,ok,1485.3002,81.46
+shot_0052,1,End-to-End GP,ok,1485.3002,99.89
+shot_0133,1,Physics-only,ok,1682.4963,251.85
+shot_0133,1,Hybrid-GP,ok,1682.4963,199.74
+shot_0133,1,End-to-End GP,ok,1682.4963,66.1
+shot_0099,1,Physics-only,ok,1607.9396,128.34
+shot_0099,1,Hybrid-GP,ok,1607.9396,102.6
+shot_0099,1,End-to-End GP,ok,1607.9396,41.28
+shot_0159,1,Physics-only,ok,1793.9244,206.81
+shot_0159,1,Hybrid-GP,ok,1793.9244,206.81
+shot_0159,1,End-to-End GP,ok,1793.9244,70.23
+shot_0148,1,Physics-only,ok,1744.5952,227.67
+shot_0148,1,Hybrid-GP,ok,1744.5952,194.24
+shot_0148,1,End-to-End GP,ok,1744.5952,143.41
+shot_0023,1,Physics-only,ok,1402.4667,101.14
+shot_0023,1,Hybrid-GP,ok,1402.4667,75.3
+shot_0023,1,End-to-End GP,ok,1402.4667,122.92
+shot_0044,1,Physics-only,ok,1431.8728,263.95
+shot_0044,1,Hybrid-GP,ok,1431.8728,202.08
+shot_0044,1,End-to-End GP,ok,1431.8728,341.74
+shot_0161,1,Physics-only,ok,1795.3981,84.06
+shot_0161,1,Hybrid-GP,ok,1795.3981,59.58
+shot_0161,1,End-to-End GP,ok,1795.3981,200.01
+shot_0068,1,Physics-only,ok,1515.0337,138.15
+shot_0068,1,Hybrid-GP,ok,1515.0337,119.0
+shot_0068,1,End-to-End GP,ok,1515.0337,201.51
+shot_0038,1,Physics-only,ok,1423.3922,67.0
+shot_0038,1,Hybrid-GP,ok,1423.3922,73.33
+shot_0038,1,End-to-End GP,ok,1423.3922,243.45
+shot_0050,1,Physics-only,ok,1483.9331,88.11
+shot_0050,1,Hybrid-GP,ok,1483.9331,89.11
+shot_0050,1,End-to-End GP,ok,1483.9331,139.67
+shot_0091,2,Physics-only,ok,1599.1177,96.54
+shot_0091,2,Hybrid-GP,ok,1599.1177,69.93
+shot_0091,2,End-to-End GP,ok,1599.1177,239.2
+shot_0020,2,Physics-only,ok,1400.2665,27.5
+shot_0020,2,Hybrid-GP,ok,1400.2665,12.57
+shot_0020,2,End-to-End GP,ok,1400.2665,133.68
+shot_0009,2,Physics-only,ok,1389.6453,104.66
+shot_0009,2,Hybrid-GP,ok,1389.6453,95.29
+shot_0009,2,End-to-End GP,ok,1389.6453,48.53
+shot_0034,2,Physics-only,ok,1418.9543,142.45
+shot_0034,2,Hybrid-GP,ok,1418.9543,124.89
+shot_0034,2,End-to-End GP,ok,1418.9543,192.67
+shot_0027,2,Physics-only,ok,1412.9235,134.14
+shot_0027,2,Hybrid-GP,ok,1412.9235,125.76
+shot_0027,2,End-to-End GP,ok,1412.9235,188.93
+shot_0117,2,Physics-only,ok,1654.2659,115.38
+shot_0117,2,Hybrid-GP,ok,1654.2659,78.69
+shot_0117,2,End-to-End GP,ok,1654.2659,149.98
+shot_0092,2,Physics-only,ok,1599.7216,70.46
+shot_0092,2,Hybrid-GP,ok,1599.7216,52.72
+shot_0092,2,End-to-End GP,ok,1599.7216,68.68
+shot_0025,2,Physics-only,ok,1403.7576,40.87
+shot_0025,2,Hybrid-GP,ok,1403.7576,28.76
+shot_0025,2,End-to-End GP,ok,1403.7576,77.56
+shot_0043,2,Physics-only,ok,1430.9803,103.69
+shot_0043,2,Hybrid-GP,ok,1430.9803,95.05
+shot_0043,2,End-to-End GP,ok,1430.9803,90.25
+shot_0098,2,Physics-only,ok,1607.2932,92.03
+shot_0098,2,Hybrid-GP,ok,1607.2932,60.16
+shot_0098,2,End-to-End GP,ok,1607.2932,145.71
+shot_0008,2,Physics-only,ok,1384.9899,115.91
+shot_0008,2,Hybrid-GP,ok,1384.9899,107.31
+shot_0008,2,End-to-End GP,ok,1384.9899,99.66
+shot_0040,2,Physics-only,ok,1424.6739,121.75
+shot_0040,2,Hybrid-GP,ok,1424.6739,96.76
+shot_0040,2,End-to-End GP,ok,1424.6739,147.24
+shot_0147,2,Physics-only,ok,1743.8026,101.19
+shot_0147,2,Hybrid-GP,ok,1743.8026,87.2
+shot_0147,2,End-to-End GP,ok,1743.8026,75.2
+shot_0122,2,Physics-only,ok,1662.3819,83.97
+shot_0122,2,Hybrid-GP,ok,1662.3819,67.4
+shot_0122,2,End-to-End GP,ok,1662.3819,143.83
+shot_0022,2,Physics-only,ok,1401.7386,85.47
+shot_0022,2,Hybrid-GP,ok,1401.7386,70.77
+shot_0022,2,End-to-End GP,ok,1401.7386,64.97
+shot_0019,2,Physics-only,ok,1399.7704,194.67
+shot_0019,2,Hybrid-GP,ok,1399.7704,147.08
+shot_0019,2,End-to-End GP,ok,1399.7704,281.33
+shot_0143,2,Physics-only,no_bounce,,
+shot_0143,2,Hybrid-GP,no_bounce,,
+shot_0143,2,End-to-End GP,no_bounce,,
+shot_0110,2,Physics-only,ok,1625.6486,147.37
+shot_0110,2,Hybrid-GP,ok,1625.6486,109.86
+shot_0110,2,End-to-End GP,ok,1625.6486,95.98
+shot_0144,2,Physics-only,ok,1741.9289,180.86
+shot_0144,2,Hybrid-GP,ok,1741.9289,155.16
+shot_0144,2,End-to-End GP,ok,1741.9289,123.78
+shot_0109,2,Physics-only,ok,1624.895,92.54
+shot_0109,2,Hybrid-GP,ok,1624.895,75.41
+shot_0109,2,End-to-End GP,ok,1624.895,220.09
+shot_0102,2,Physics-only,ok,1610.9618,52.32
+shot_0102,2,Hybrid-GP,ok,1610.9618,65.03
+shot_0102,2,End-to-End GP,ok,1610.9618,162.15
+shot_0004,2,Physics-only,ok,1382.2743,61.39
+shot_0004,2,Hybrid-GP,ok,1382.2743,52.69
+shot_0004,2,End-to-End GP,ok,1382.2743,62.22
+shot_0105,2,Physics-only,ok,1621.9675,622.58
+shot_0105,2,Hybrid-GP,ok,1621.9675,622.58
+shot_0105,2,End-to-End GP,ok,1621.9675,582.83
+shot_0079,2,Physics-only,ok,1529.8922,101.33
+shot_0079,2,Hybrid-GP,ok,1529.8922,75.42
+shot_0079,2,End-to-End GP,ok,1529.8922,66.5
+shot_0055,2,Physics-only,ok,1487.3783,213.19
+shot_0055,2,Hybrid-GP,ok,1487.3783,203.76
+shot_0055,2,End-to-End GP,ok,1487.3783,37.08
+shot_0156,2,Physics-only,ok,1785.0638,99.52
+shot_0156,2,Hybrid-GP,ok,1785.0638,58.92
+shot_0156,2,End-to-End GP,ok,1785.0638,66.75
+shot_0017,2,Physics-only,ok,1398.3151,56.76
+shot_0017,2,Hybrid-GP,ok,1398.3151,51.93
+shot_0017,2,End-to-End GP,ok,1398.3151,52.63
+shot_0085,2,Physics-only,ok,1595.1041,95.16
+shot_0085,2,Hybrid-GP,ok,1595.1041,82.09
+shot_0085,2,End-to-End GP,ok,1595.1041,105.3
+shot_0100,2,Physics-only,no_z_e_crossing_after_bounce,,
+shot_0100,2,Hybrid-GP,no_z_e_crossing_after_bounce,,
+shot_0100,2,End-to-End GP,no_z_e_crossing_after_bounce,,
+shot_0003,2,Physics-only,ok,1381.5403,128.0
+shot_0003,2,Hybrid-GP,ok,1381.5403,115.85
+shot_0003,2,End-to-End GP,ok,1381.5403,117.67
+shot_0103,2,Physics-only,ok,1620.2512,126.7
+shot_0103,2,Hybrid-GP,ok,1620.2512,114.19
+shot_0103,2,End-to-End GP,ok,1620.2512,88.21
+shot_0132,2,Physics-only,ok,1681.7389,101.17
+shot_0132,2,Hybrid-GP,ok,1681.7389,81.24
+shot_0132,2,End-to-End GP,ok,1681.7389,29.68
+shot_0015,2,Physics-only,ok,1397.0092,49.29
+shot_0015,2,Hybrid-GP,ok,1397.0092,58.36
+shot_0015,2,End-to-End GP,ok,1397.0092,249.57
+shot_0149,3,Physics-only,ok,1751.6358,108.24
+shot_0149,3,Hybrid-GP,ok,1751.6358,109.07
+shot_0149,3,End-to-End GP,ok,1751.6358,60.73
+shot_0030,3,Physics-only,ok,1415.1152,95.29
+shot_0030,3,Hybrid-GP,ok,1415.1152,52.97
+shot_0030,3,End-to-End GP,ok,1415.1152,108.74
+shot_0066,3,Physics-only,ok,1506.3979,172.4
+shot_0066,3,Hybrid-GP,ok,1506.3979,131.61
+shot_0066,3,End-to-End GP,ok,1506.3979,63.17
+shot_0035,3,Physics-only,ok,1419.8571,114.13
+shot_0035,3,Hybrid-GP,ok,1419.8571,115.35
+shot_0035,3,End-to-End GP,ok,1419.8571,131.36
+shot_0106,3,Physics-only,ok,1622.7277,90.81
+shot_0106,3,Hybrid-GP,ok,1622.7277,87.17
+shot_0106,3,End-to-End GP,ok,1622.7277,78.66
+shot_0081,3,Physics-only,ok,1538.7088,118.3
+shot_0081,3,Hybrid-GP,ok,1538.7088,97.23
+shot_0081,3,End-to-End GP,ok,1538.7088,110.15
+shot_0154,3,Physics-only,ok,1777.1202,197.25
+shot_0154,3,Hybrid-GP,ok,1777.1202,191.05
+shot_0154,3,End-to-End GP,ok,1777.1202,80.48
+shot_0028,3,Physics-only,ok,1413.5988,154.22
+shot_0028,3,Hybrid-GP,ok,1413.5988,135.93
+shot_0028,3,End-to-End GP,ok,1413.5988,103.02
+shot_0082,3,Physics-only,ok,1539.3178,62.23
+shot_0082,3,Hybrid-GP,ok,1539.3178,25.3
+shot_0082,3,End-to-End GP,ok,1539.3178,107.8
+shot_0018,3,Physics-only,ok,1399.0119,101.48
+shot_0018,3,Hybrid-GP,ok,1399.0119,100.45
+shot_0018,3,End-to-End GP,ok,1399.0119,41.33
+shot_0006,3,Physics-only,ok,1383.6043,116.41
+shot_0006,3,Hybrid-GP,ok,1383.6043,110.16
+shot_0006,3,End-to-End GP,ok,1383.6043,70.21
+shot_0067,3,Physics-only,ok,1507.0388,43.69
+shot_0067,3,Hybrid-GP,ok,1507.0388,39.59
+shot_0067,3,End-to-End GP,ok,1507.0388,63.02
+shot_0065,3,Physics-only,ok,1505.7033,90.52
+shot_0065,3,Hybrid-GP,ok,1505.7033,82.82
+shot_0065,3,End-to-End GP,ok,1505.7033,182.22
+shot_0114,3,Physics-only,ok,1651.9891,117.92
+shot_0114,3,Hybrid-GP,ok,1651.9891,116.86
+shot_0114,3,End-to-End GP,ok,1651.9891,270.28
+shot_0024,3,Physics-only,ok,1403.0842,41.6
+shot_0024,3,Hybrid-GP,ok,1403.0842,22.24
+shot_0024,3,End-to-End GP,ok,1403.0842,54.91
+shot_0158,3,Physics-only,ok,1793.2262,72.22
+shot_0158,3,Hybrid-GP,ok,1793.2262,72.03
+shot_0158,3,End-to-End GP,ok,1793.2262,69.74
+shot_0163,3,Physics-only,ok,1809.3329,153.52
+shot_0163,3,Hybrid-GP,ok,1809.3329,145.66
+shot_0163,3,End-to-End GP,ok,1809.3329,116.68
+shot_0057,3,Physics-only,ok,1495.2678,50.19
+shot_0057,3,Hybrid-GP,ok,1495.2678,56.38
+shot_0057,3,End-to-End GP,ok,1495.2678,159.04
+shot_0021,3,Physics-only,ok,1401.0939,72.83
+shot_0021,3,Hybrid-GP,ok,1401.0939,71.38
+shot_0021,3,End-to-End GP,ok,1401.0939,200.84
+shot_0126,3,Physics-only,ok,1667.6092,77.57
+shot_0126,3,Hybrid-GP,ok,1667.6092,74.01
+shot_0126,3,End-to-End GP,ok,1667.6092,127.85
+shot_0136,3,Physics-only,ok,1692.0039,117.48
+shot_0136,3,Hybrid-GP,ok,1692.0039,140.59
+shot_0136,3,End-to-End GP,ok,1692.0039,134.76
+shot_0124,3,Physics-only,ok,1664.5862,29.38
+shot_0124,3,Hybrid-GP,ok,1664.5862,48.76
+shot_0124,3,End-to-End GP,ok,1664.5862,106.8
+shot_0047,3,Physics-only,ok,1436.4205,79.52
+shot_0047,3,Hybrid-GP,ok,1436.4205,69.51
+shot_0047,3,End-to-End GP,ok,1436.4205,209.47
+shot_0000,3,Physics-only,ok,1378.4469,63.87
+shot_0000,3,Hybrid-GP,ok,1378.4469,66.8
+shot_0000,3,End-to-End GP,ok,1378.4469,31.14
+shot_0060,3,Physics-only,ok,1497.4943,166.81
+shot_0060,3,Hybrid-GP,ok,1497.4943,137.29
+shot_0060,3,End-to-End GP,ok,1497.4943,52.63
+shot_0070,3,Physics-only,ok,1517.1192,114.03
+shot_0070,3,Hybrid-GP,ok,1517.1192,110.03
+shot_0070,3,End-to-End GP,ok,1517.1192,25.68
+shot_0062,3,Physics-only,ok,1501.0495,50.42
+shot_0062,3,Hybrid-GP,ok,1501.0495,42.01
+shot_0062,3,End-to-End GP,ok,1501.0495,150.14
+shot_0150,3,Physics-only,ok,1752.3205,258.36
+shot_0150,3,Hybrid-GP,ok,1752.3205,258.36
+shot_0150,3,End-to-End GP,ok,1752.3205,192.6
+shot_0045,3,Physics-only,ok,1432.4247,18.17
+shot_0045,3,Hybrid-GP,ok,1432.4247,28.02
+shot_0045,3,End-to-End GP,ok,1432.4247,142.29
+shot_0086,3,Physics-only,ok,1595.7327,82.44
+shot_0086,3,Hybrid-GP,ok,1595.7327,76.71
+shot_0086,3,End-to-End GP,ok,1595.7327,185.67
+shot_0063,3,Physics-only,ok,1504.2406,88.05
+shot_0063,3,Hybrid-GP,ok,1504.2406,61.03
+shot_0063,3,End-to-End GP,ok,1504.2406,121.8
+shot_0125,3,Physics-only,ok,1665.2272,64.04
+shot_0125,3,Hybrid-GP,ok,1665.2272,45.25
+shot_0125,3,End-to-End GP,ok,1665.2272,64.87
+shot_0026,3,Physics-only,ok,1405.2447,111.63
+shot_0026,3,Hybrid-GP,ok,1405.2447,132.64
+shot_0026,3,End-to-End GP,ok,1405.2447,128.75
+shot_0051,4,Physics-only,ok,1484.499,76.38
+shot_0051,4,Hybrid-GP,ok,1484.499,63.0
+shot_0051,4,End-to-End GP,ok,1484.499,90.54
+shot_0101,4,Physics-only,ok,1609.2572,97.6
+shot_0101,4,Hybrid-GP,ok,1609.2572,75.12
+shot_0101,4,End-to-End GP,ok,1609.2572,141.15
+shot_0049,4,Physics-only,ok,1483.1779,103.08
+shot_0049,4,Hybrid-GP,ok,1483.1779,98.33
+shot_0049,4,End-to-End GP,ok,1483.1779,135.54
+shot_0145,4,Physics-only,ok,1742.5913,146.23
+shot_0145,4,Hybrid-GP,ok,1742.5913,142.14
+shot_0145,4,End-to-End GP,ok,1742.5913,101.19
+shot_0096,4,Physics-only,ok,1605.9702,124.48
+shot_0096,4,Hybrid-GP,ok,1605.9702,99.7
+shot_0096,4,End-to-End GP,ok,1605.9702,77.0
+shot_0152,4,Physics-only,ok,1766.6302,156.48
+shot_0152,4,Hybrid-GP,ok,1766.6302,156.48
+shot_0152,4,End-to-End GP,ok,1766.6302,148.59
+shot_0061,4,Physics-only,ok,1498.9279,93.01
+shot_0061,4,Hybrid-GP,ok,1498.9279,70.39
+shot_0061,4,End-to-End GP,ok,1498.9279,144.31
+shot_0012,4,Physics-only,ok,1391.8143,69.15
+shot_0012,4,Hybrid-GP,ok,1391.8143,53.78
+shot_0012,4,End-to-End GP,ok,1391.8143,119.97
+shot_0032,4,Physics-only,ok,1416.4143,121.1
+shot_0032,4,Hybrid-GP,ok,1416.4143,117.29
+shot_0032,4,End-to-End GP,ok,1416.4143,48.42
+shot_0056,4,Physics-only,ok,1494.6491,65.85
+shot_0056,4,Hybrid-GP,ok,1494.6491,60.45
+shot_0056,4,End-to-End GP,ok,1494.6491,74.93
+shot_0046,4,Physics-only,ok,1435.7739,61.61
+shot_0046,4,Hybrid-GP,ok,1435.7739,60.73
+shot_0046,4,End-to-End GP,ok,1435.7739,125.56
+shot_0058,4,Physics-only,ok,1495.9751,125.83
+shot_0058,4,Hybrid-GP,ok,1495.9751,93.09
+shot_0058,4,End-to-End GP,ok,1495.9751,134.17
+shot_0014,4,Physics-only,ok,1396.2088,58.23
+shot_0014,4,Hybrid-GP,ok,1396.2088,48.97
+shot_0014,4,End-to-End GP,ok,1396.2088,261.89
+shot_0073,4,Physics-only,ok,1519.8491,71.03
+shot_0073,4,Hybrid-GP,ok,1519.8491,60.45
+shot_0073,4,End-to-End GP,ok,1519.8491,246.28
+shot_0155,4,Physics-only,ok,1784.2843,184.25
+shot_0155,4,Hybrid-GP,ok,1784.2843,181.03
+shot_0155,4,End-to-End GP,ok,1784.2843,244.93
+shot_0160,4,Physics-only,ok,1794.716,179.37
+shot_0160,4,Hybrid-GP,ok,1794.716,184.14
+shot_0160,4,End-to-End GP,ok,1794.716,100.98
+shot_0115,4,Physics-only,ok,1652.8182,237.06
+shot_0115,4,Hybrid-GP,ok,1652.8182,236.85
+shot_0115,4,End-to-End GP,ok,1652.8182,222.59
+shot_0031,4,Physics-only,ok,1415.7156,77.61
+shot_0031,4,Hybrid-GP,ok,1415.7156,71.9
+shot_0031,4,End-to-End GP,ok,1415.7156,76.33
+shot_0104,4,Physics-only,ok,1621.1105,92.4
+shot_0104,4,Hybrid-GP,ok,1621.1105,78.43
+shot_0104,4,End-to-End GP,ok,1621.1105,98.85
+shot_0077,4,Physics-only,ok,1528.5699,74.51
+shot_0077,4,Hybrid-GP,ok,1528.5699,50.43
+shot_0077,4,End-to-End GP,ok,1528.5699,195.34
+shot_0076,4,Physics-only,ok,1527.2491,93.58
+shot_0076,4,Hybrid-GP,ok,1527.2491,90.62
+shot_0076,4,End-to-End GP,ok,1527.2491,93.19
+shot_0007,4,Physics-only,ok,1384.2536,156.03
+shot_0007,4,Hybrid-GP,ok,1384.2536,118.94
+shot_0007,4,End-to-End GP,ok,1384.2536,85.75
+shot_0166,4,Physics-only,ok,1823.8624,132.07
+shot_0166,4,Hybrid-GP,ok,1823.8624,132.07
+shot_0166,4,End-to-End GP,ok,1823.8624,287.17
+shot_0069,4,Physics-only,ok,1516.4076,184.89
+shot_0069,4,Hybrid-GP,ok,1516.4076,177.86
+shot_0069,4,End-to-End GP,ok,1516.4076,167.03
+shot_0113,4,Physics-only,ok,1639.3272,70.08
+shot_0113,4,Hybrid-GP,ok,1639.3272,59.24
+shot_0113,4,End-to-End GP,ok,1639.3272,84.36
+shot_0127,4,Physics-only,ok,1671.5616,133.61
+shot_0127,4,Hybrid-GP,ok,1671.5616,132.37
+shot_0127,4,End-to-End GP,ok,1671.5616,214.76
+shot_0121,4,Physics-only,ok,1661.5986,89.04
+shot_0121,4,Hybrid-GP,ok,1661.5986,73.03
+shot_0121,4,End-to-End GP,ok,1661.5986,37.53
+shot_0078,4,Physics-only,ok,1529.2442,53.85
+shot_0078,4,Hybrid-GP,ok,1529.2442,34.77
+shot_0078,4,End-to-End GP,ok,1529.2442,218.97
+shot_0120,4,Physics-only,ok,1660.8599,313.0
+shot_0120,4,Hybrid-GP,ok,1660.8599,313.0
+shot_0120,4,End-to-End GP,ok,1660.8599,193.89
+shot_0059,4,Physics-only,ok,1496.7284,42.68
+shot_0059,4,Hybrid-GP,ok,1496.7284,26.07
+shot_0059,4,End-to-End GP,ok,1496.7284,207.72
+shot_0029,4,Physics-only,ok,1414.3563,72.35
+shot_0029,4,Hybrid-GP,ok,1414.3563,66.16
+shot_0029,4,End-to-End GP,ok,1414.3563,185.05
+shot_0033,4,Physics-only,ok,1417.1354,114.21
+shot_0033,4,Hybrid-GP,ok,1417.1354,106.41
+shot_0033,4,End-to-End GP,ok,1417.1354,15.31
+shot_0095,4,Physics-only,ok,1605.2752,60.46
+shot_0095,4,Hybrid-GP,ok,1605.2752,64.8
+shot_0095,4,End-to-End GP,ok,1605.2752,17.03
